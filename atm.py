@@ -10,8 +10,6 @@ import re
 from datetime import datetime
 from decimal import Decimal
 
-#Niko added some chainges here
-
 # Function to change the user file. Complete
 def replaceFile(account, file):
    os.remove(account + '.txt')
