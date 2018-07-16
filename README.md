@@ -1,6 +1,13 @@
-# Grade 12 ATM project
+# ATM Project
 
-This is an ATM - Automated Teller Machine simulation. In this program similarly to an you will be able to create an account, 
-log in, view account information, change pin number, withdraw money, deposit money, pay bills and view history. 
-The nice thing about this program is that it uses text files to save your information even after you logged out which is 
-similiar to what actual ATMs do using databases.
+This is an ATM - Automated Teller Machine coded in python. 
+
+## Features:
+1. Create an account 
+2. Log in
+3. View account information
+4. Change pin number
+5. Withdraw money
+6. deposit money
+7. Pay bills 
+8. View history
