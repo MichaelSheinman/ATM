@@ -4,6 +4,8 @@ There are two projects, both aiming towards simulating banks
 
 ## 1. ATM - Automated Teller Machine coded in python. 
 
+This machine works for an individual person only, the program will save data into a text file
+
 ### Features:
 1. Create an account 
 2. Log in
@@ -14,7 +16,9 @@ There are two projects, both aiming towards simulating banks
 7. Pay bills 
 8. View history
 
+### Using the application
 
+Clone the `atm.py` file. 
 
 ## 2. Multiple User Banking System
 
@@ -33,3 +37,7 @@ There are two projects, both aiming towards simulating banks
 7.2 Unlimited
 7.3 All-Inclusive
 8. Advance one month, this is used for testing purposes. 
+
+### Using the application
+
+Close `Business_Application_plans.py` and `bucks_bank.txt` in the same python IDE. 
